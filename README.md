@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Techs</p>
+<p align="left">Technologies</p>
 
 ###
 
