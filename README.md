@@ -14,14 +14,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="40" alt="power bi logo"  />
-   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=121103&format=png&color=000000" height="40" alt="Visual basic logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=3767&format=png&color=000000" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="40" alt="vscode logo"  />
 </div>
 
 ###
