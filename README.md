@@ -15,9 +15,9 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="40" alt="power bi logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=121103&format=png&color=000000" height="40" alt="Visual basic logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png" height="40" alt="Visual basic logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=3767&format=png&color=000000" height="40" alt="sql logo"  />
+  <img src="https://img.icons8.com/?size=100&id=uHZV38hOzCFA&format=png&color=000000" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="python logo"  />
   <img width="12" />
