@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I have a degree in Business Administration from Faculdade Figueiredo Costa (Unifal) and a postgraduate degree in Business Management and certification in Business Intelligence from the DNC school.<br><br>Throughout my career, I have developed skills in tools such as excel, Power BI, SQL, and Python, which I use to manage and analyze large volumes of data. Currently, I am expanding my technical knowledge through a postgraduate degree in Data Analysis, further improving my analytical skills.</p>
+<p align="left">I have a degree in Business Administration from Faculdade Figueiredo Costa (Unifal) and a postgraduate degree in Data Analysis from Faculdade Descomplica and certification in Business Intelligence from the DNC school.<br><br>Throughout my career, I have honed my skills in tools such as Excel, Power BI, SQL, and Python, which I use to manage and analyze large volumes of data. Currently, I am further expanding my technical knowledge by taking a course in Data Engineering, continuously improving my analytical skills..</p>
 
 ###
 
@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="40" alt="power bi logo"  />
   <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png" height="40" alt="Visual basic logo"  />
+  <img src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" height="40" alt="Visual basic logo"  /> 
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=uHZV38hOzCFA&format=png&color=000000" height="40" alt="sql logo"  />
   <img width="12" />
